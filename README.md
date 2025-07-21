@@ -50,7 +50,7 @@ The system employs a **Retrieval-Augmented Generation (RAG)** approach:
    ```
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install --no-cache-dir -r requirements.txt
    ```
 4. Ensure `data/nasa_info.txt` contains NASA-related content.
 5. Create `config/variables.env` with the path to the data file.
