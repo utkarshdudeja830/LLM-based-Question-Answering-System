@@ -1,0 +1,12 @@
+%pip install --no-cache-dir \
+    langchain \
+    langchain-community \
+    transformers \
+    torch \
+    faiss-cpu \
+    bitsandbytes \
+    accelerate \
+    sentence-transformers \
+    huggingface-hub \
+    tiktoken \
+    pypdf

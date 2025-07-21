@@ -1,0 +1,32 @@
+Voyager Space Missions (NASA)
+
+Introduction
+The Voyager program is a NASA mission that launched two robotic probes, Voyager 1 and Voyager 2, in 1977 to explore the outer planets of the solar system and eventually interstellar space. They remain among the most iconic missions in space exploration.
+
+Mission Goals
+Voyager’s primary mission was to study the outer planets: Jupiter, Saturn, Uranus, and Neptune. The mission included flybys, close-up imaging, and measurement of planetary atmospheres, magnetic fields, and moons.
+
+Voyager 1 Highlights
+- Launched: September 5, 1977
+- First spacecraft to enter interstellar space (2012)
+- Closest approach to Jupiter: 1979
+- Discovered volcanic activity on Jupiter's moon Io
+- Took the famous "Pale Blue Dot" photo of Earth from 6 billion kilometers away
+
+Voyager 2 Highlights
+- Launched: August 20, 1977
+- Only spacecraft to visit Uranus and Neptune
+- Discovered 10 new moons, two new rings, and magnetic field data
+- Crossed into interstellar space in 2018
+
+Golden Record
+Each Voyager carries a 12-inch gold-plated phonograph record containing sounds and images from Earth, intended as a message to any extraterrestrial life. It includes:
+- Greetings in 55 languages
+- Music (Bach, Beethoven, Chuck Berry)
+- Earth sounds: wind, thunder, animals
+
+Current Status
+- Both Voyager probes are still communicating with NASA.
+- They are over 20 billion km from Earth.
+- Power is declining; instruments are being turned off one by one.
+- Expected to continue transmitting data until around 2025–2030.

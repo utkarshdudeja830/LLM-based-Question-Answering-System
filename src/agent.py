@@ -6,6 +6,9 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from langchain.llms import HuggingFacePipeline
+from dotenv import load_dotenv
+from pathlib import Path
+import os
 
 class DocumentProcessor:
     # Handles loading and splitting of text documents.
@@ -109,7 +112,11 @@ Answer: """
 def main():
     # Initialize components
     try:
-        doc_processor = DocumentProcessor(file_path="/content/nasa_info.txt")
+        dotenv_path = Path('config/variables.env')
+        load_dotenv(dotenv_path=dotenv_path)
+
+        document_path = os.getenv('DOCUMENT_PATH')
+        doc_processor = DocumentProcessor(document_path="data/nasa_info.txt")
         vector_store = VectorStore()
         llm = LanguageModel()
 
