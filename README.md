@@ -41,7 +41,7 @@ The system employs a **Retrieval-Augmented Generation (RAG)** approach:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd nasa-qa-system
+   cd LLM-based-Question-Answering-System
    ```
 2. Create and activate a virtual environment:
    ```bash
