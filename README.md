@@ -53,7 +53,7 @@ The system employs a **Retrieval-Augmented Generation (RAG)** approach:
    pip install --no-cache-dir -r requirements.txt
    ```
 4. Ensure `data/nasa_info.txt` contains NASA-related content.
-5. Create `config/variables.env` with the path to the data file.
+5. Ensure `config/variables.env` contains the path to the data file.
 
 ## Usage
 1. Run the QA system:
